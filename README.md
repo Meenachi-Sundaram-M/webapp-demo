@@ -1,12 +1,5 @@
-Study guide for Exam AZ-204: Developing Solutions for Microsoft Azure
-Study Plan:
-I will be posting YouTube videos covering all the necessary aspects and content needed for the AZ-204 exam. These videos will serve as a comprehensive study guide titled "Study guide for Exam AZ-204: Developing Solutions for Microsoft Azure." Additionally, I will provide links to both the video and the corresponding repository for each topic upon the release of the video.
+**Study guide for Exam AZ-204: Developing Solutions for Microsoft Azure**
 
-Also, The video will be available in English Language and Tamil Language separately on two youube channels.
-
-Channel Details:
-Learn Smart Coding YouTube Channel
-Learn Smart Coding In Tamil YouTube Channel
 Purpose of this document
 This study guide should help you understand what to expect on the exam and includes a summary of the topics the exam might cover and links to additional resources. The information and materials in this document should help you focus your studies as you prepare for the exam.
 
